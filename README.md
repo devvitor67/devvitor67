@@ -8,6 +8,7 @@ Estudante de tecnologia | Apaixonado por desenvolvimento web
 
 ## 📊 Estatísticas  
 [![Vitor’s GitHub stats](https://github-readme-stats.vercel.app/api?username=devvitor67&show_icons=true&theme=radical)](https://github.com/devvitor67) 
+
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=devvitor67&layout=compact&theme=radical)](https://github.com/devvitor67)  
 
 ## 🛠 Ferramentas & Tecnologias  
