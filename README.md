@@ -1,10 +1,10 @@
 # Olá, eu sou Vitor 👋  
-Estudante de tecnologia | Apaixonado por desenvolvimento web  
+Curto desenvolvimento web  
 
 ## 🔧 Sobre mim  
-- Atualmente aprendendo **React** e **Next.js**  
-- Sou curioso e sempre vou além nas coisas que estudo  
-- Procuro ser excelente em todos os projetos afinal, sempre tem alguém vendo 
+- Atualmente explorando **React**, **Next.js** e **Tanstack Start**  
+- Sou curioso e sempre gosto de aprender coisas novas
+- Sou organizado com meus projetos e gosto de fazê-los da melhor forma possível 
 
 ## 📊 Estatísticas  
 [![Vitor’s GitHub stats](https://github-readme-stats.vercel.app/api?username=devvitor67&show_icons=true&theme=radical)](https://github.com/devvitor67) 
